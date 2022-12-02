@@ -55,7 +55,7 @@ Watch out for:
 
 What are we starting with?
 
-Implementation framework: Next.js + React
+Implementation framework: Next.js + React + Typescript
 
 Testing framework: Cypress
 
@@ -63,3 +63,8 @@ Deployment:
 
 - Vercel
 - Compare others
+
+Styling
+
+- Use tailwind
+- Completely reuse styles across apps
