@@ -40,5 +40,26 @@ Testing:
   - Time to first interactive (hot and cold)
   - Round trip time for calcuations (online and offline)
   - Any other interesting metrics
-  
 
+What testing framework to use?
+
+Use different frameworks
+- Should implment all the end to end tests
+- Also all the performance tests
+- And snapshot tests
+
+Watch out for:
+- flaky tests
+- false positives
+- false negatives
+
+What are we starting with?
+
+Implementation framework: Next.js + React
+
+Testing framework: Cypress
+
+Deployment:
+
+- Vercel
+- Compare others
