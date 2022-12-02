@@ -35,4 +35,10 @@ Testing:
     - SSR
     - Optimiistic
     - etc.
+- Snapshot testing
+- Performance tests
+  - Time to first interactive (hot and cold)
+  - Round trip time for calcuations (online and offline)
+  - Any other interesting metrics
+  
 
